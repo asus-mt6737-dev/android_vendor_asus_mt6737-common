@@ -151,7 +151,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libaudio_param_parser.so:system/vendor/lib/libaudio_param_parser.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libaudiocompensationfilter.so:system/vendor/lib/libaudiocompensationfilter.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libaudiocomponentengine.so:system/vendor/lib/libaudiocomponentengine.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib/libaudiocustparam.so:system/vendor/lib/libaudiocustparam.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libaudiodcrflt.so:system/vendor/lib/libaudiodcrflt.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libaudiomtkdcremoval.so:system/vendor/lib/libaudiomtkdcremoval.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libaudiosetting.so:system/vendor/lib/libaudiosetting.so \
@@ -206,7 +205,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libcustom_prop.so:system/vendor/lib/libcustom_prop.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libcvsd_mtk.so:system/vendor/lib/libcvsd_mtk.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libdirect-coredump.so:system/vendor/lib/libdirect-coredump.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib/libdpframework.so:system/vendor/lib/libdpframework.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libdrmmtkutil.so:system/vendor/lib/libdrmmtkutil.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libdrmmtkwhitelist.so:system/vendor/lib/libdrmmtkwhitelist.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libem_audio_jni.so:system/vendor/lib/libem_audio_jni.so \
@@ -235,7 +233,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libimsma.so:system/vendor/lib/libimsma.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libimsma_rtp.so:system/vendor/lib/libimsma_rtp.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libimsma_socketwrapper.so:system/vendor/lib/libimsma_socketwrapper.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib/libion_mtk.so:system/vendor/lib/libion_mtk.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libjni_pq.so:system/vendor/lib/libjni_pq.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/liblic_divx.so:system/vendor/lib/liblic_divx.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/liblic_s263.so:system/vendor/lib/liblic_s263.so \
@@ -271,7 +268,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libmtk_vt_swip.so:system/vendor/lib/libmtk_vt_swip.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libmtk_vt_utils.so:system/vendor/lib/libmtk_vt_utils.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libmtk_vt_wrapper.so:system/vendor/lib/libmtk_vt_wrapper.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib/libmtkcam_fwkutils.so:system/vendor/lib/libmtkcam_fwkutils.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libmtkjpeg.so:system/vendor/lib/libmtkjpeg.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libmtklimiter.so:system/vendor/lib/libmtklimiter.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib/libmtkplayer.so:system/vendor/lib/libmtkplayer.so \
@@ -348,7 +344,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libaudio_param_parser.so:system/vendor/lib64/libaudio_param_parser.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libaudiocompensationfilter.so:system/vendor/lib64/libaudiocompensationfilter.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libaudiocomponentengine.so:system/vendor/lib64/libaudiocomponentengine.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib64/libaudiocustparam.so:system/vendor/lib64/libaudiocustparam.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libaudiodcrflt.so:system/vendor/lib64/libaudiodcrflt.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libaudiosetting.so:system/vendor/lib64/libaudiosetting.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libaudiotoolkit.so:system/vendor/lib64/libaudiotoolkit.so \
@@ -400,7 +395,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libcustom_prop.so:system/vendor/lib64/libcustom_prop.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libcvsd_mtk.so:system/vendor/lib64/libcvsd_mtk.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libdirect-coredump.so:system/vendor/lib64/libdirect-coredump.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib64/libdpframework.so:system/vendor/lib64/libdpframework.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libdrmmtkutil.so:system/vendor/lib64/libdrmmtkutil.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libdrmmtkwhitelist.so:system/vendor/lib64/libdrmmtkwhitelist.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libem_audio_jni.so:system/vendor/lib64/libem_audio_jni.so \
@@ -427,7 +421,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libimsma.so:system/vendor/lib64/libimsma.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libimsma_rtp.so:system/vendor/lib64/libimsma_rtp.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libimsma_socketwrapper.so:system/vendor/lib64/libimsma_socketwrapper.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib64/libion_mtk.so:system/vendor/lib64/libion_mtk.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libjni_pq.so:system/vendor/lib64/libjni_pq.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libm4u.so:system/vendor/lib64/libm4u.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libmal.so:system/vendor/lib64/libmal.so \
@@ -452,7 +445,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libmtk_drvb.so:system/vendor/lib64/libmtk_drvb.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libmtk_mmutils.so:system/vendor/lib64/libmtk_mmutils.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libmtk_vt_wrapper.so:system/vendor/lib64/libmtk_vt_wrapper.so \
-    vendor/asus/mt6737-common/proprietary/vendor/lib64/libmtkcam_fwkutils.so:system/vendor/lib64/libmtkcam_fwkutils.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libmtkjpeg.so:system/vendor/lib64/libmtkjpeg.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libmtklimiter.so:system/vendor/lib64/libmtklimiter.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/libmtkplayer.so:system/vendor/lib64/libmtkplayer.so \
@@ -495,3 +487,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/mtk-ril.so:system/vendor/lib64/mtk-ril.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/mtk-rilmd2.so:system/vendor/lib64/mtk-rilmd2.so \
     vendor/asus/mt6737-common/proprietary/vendor/lib64/mtk-rilproxy.so:system/vendor/lib64/mtk-rilproxy.so
+
+PRODUCT_PACKAGES += \
+    libaudiocustparam \
+    libdpframework \
+    libion_mtk \
+    libmtkcam_fwkutils
